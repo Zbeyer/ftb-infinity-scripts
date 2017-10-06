@@ -31,3 +31,5 @@ banned-ips.json
 *.lock
 
 *.json
+backups
+logs
